@@ -1,0 +1,2 @@
+# A WordPress Theme For IT Industry
+Introducing Estheticsol, a sleek and powerful WordPress theme designed specifically for the tech-savvy. With its clean and modern design, Estheticsol effortlessly showcases your IT company's services, projects, and expertise. Packed with customizable features, including a responsive layout, advanced portfolio options, and seamless integration with popular plugins, Estheticsol empowers your business to stand out in the digital landscape.
